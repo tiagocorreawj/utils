@@ -1,3 +1,3 @@
 export function saudacao() {
-    console.log('Olá, essa mensagem veio do submodule!');
+    console.log('Olá Jumpers, essa mensagem veio do submodule!');
 }
